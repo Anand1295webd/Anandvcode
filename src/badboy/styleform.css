@@ -1,0 +1,13 @@
+.form{
+    background-color:rgb(243, 191, 94);
+    justify-content: center;
+    
+   
+}
+.button{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
